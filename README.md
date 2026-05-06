@@ -157,8 +157,46 @@ Aquí tienes la sección de **Capturas de Pantalla usando tablas**, organizada y
 ---
 
 ## Capturas de Pantalla
-<img width="784" height="745" alt="image" src="https://github.com/user-attachments/assets/755e32e2-787a-4baa-adeb-eced6aba456a" /> <img width="755" height="698" alt="image" src="https://github.com/user-attachments/assets/3066bad1-9e91-40d5-8ae1-cd0a36d739f5" /> chats enevntos de escritura en vivo <img width="1549" height="716" alt="image" src="https://github.com/user-attachments/assets/eee07e0a-b0dc-4c57-b04b-faefd1d293f6" /> <img width="1564" height="680" alt="image" src="https://github.com/user-attachments/assets/70c0e764-47a0-4023-a88e-4c16c27731e6" /> <img width="1545" height="692" alt="image" src="https://github.com/user-attachments/assets/c7def236-daab-4507-81f3-d9dadd0ae495" /> <img width="1567" height="683" alt="image" src="https://github.com/user-attachments/assets/6a5495d5-46f8-4eae-975f-fbcd20fb85e7" /> <img width="775" height="756" alt="image" src="https://github.com/user-attachments/assets/1853b334-7e6f-40d6-bf21-50055c4ce334" /> <img width="705" height="686" alt="image" src="https://github.com/user-attachments/assets/70d49081-a520-4737-9f65-7e8d0c69230e" /> <img width="1434" height="784" alt="image" src="https://github.com/user-attachments/assets/546808f9-3800-4fdc-94f9-00a0a608898c" /> <img width="1385" height="700" alt="image" src="https://github.com/user-attachments/assets/c2edbad3-f7ae-40f1-b768-afb2b660cc52" /> <img width="1583" height="746" alt="image" src="https://github.com/user-attachments/assets/1b0730f2-7603-4f5c-a43b-57ee3b9179c9" /> <img width="1464" height="773" alt="image" src="https://github.com/user-attachments/assets/08b92d8a-b059-4e9b-a23f-67b6387423ab" /> fitros <img width="792" height="764" alt="image" src="https://github.com/user-attachments/assets/a88bfc5a-327a-46c7-9a79-723ea1acdec7" /> <img width="791" height="689" alt="image" src="https://github.com/user-attachments/assets/b7af9502-358a-4f59-a4cb-55384f527358" />
-### Autenticación
+
+### Contactos
+
+| Vista | Imagen |
+|------|--------|
+| Lista de contactos | ![contactos1](https://github.com/user-attachments/assets/755e32e2-787a-4baa-adeb-eced6aba456a) |
+| Detalle de contactos | ![contactos2](https://github.com/user-attachments/assets/3066bad1-9e91-40d5-8ae1-cd0a36d739f5) |
+
+---
+
+### Chats en tiempo real
+
+| Vista | Imagen |
+|------|--------|
+| Chat principal | ![chat1](https://github.com/user-attachments/assets/eee07e0a-b0dc-4c57-b04b-faefd1d293f6) |
+| Conversación activa | ![chat2](https://github.com/user-attachments/assets/70c0e764-47a0-4023-a88e-4c16c27731e6) |
+| Mensajería en vivo | ![chat3](https://github.com/user-attachments/assets/c7def236-daab-4507-81f3-d9dadd0ae495) |
+| Chat con usuario | ![chat4](https://github.com/user-attachments/assets/6a5495d5-46f8-4eae-975f-fbcd20fb85e7) |
+
+---
+
+### Eventos de escritura en vivo
+
+| Vista | Imagen |
+|------|--------|
+| Indicador de escritura 1 | ![typing1](https://github.com/user-attachments/assets/1853b334-7e6f-40d6-bf21-50055c4ce334) |
+| Indicador de escritura 2 | ![typing2](https://github.com/user-attachments/assets/70d49081-a520-4737-9f65-7e8d0c69230e) |
+| Estado de chat activo | ![typing3](https://github.com/user-attachments/assets/546808f9-3800-4fdc-94f9-00a0a608898c) |
+| Interacción en tiempo real | ![typing4](https://github.com/user-attachments/assets/c2edbad3-f7ae-40f1-b768-afb2b660cc52) |
+| Usuario conectado | ![typing5](https://github.com/user-attachments/assets/1b0730f2-7603-4f5c-a43b-57ee3b9179c9) |
+| Estado de escritura | ![typing6](https://github.com/user-attachments/assets/08b92d8a-b059-4e9b-a23f-67b6387423ab) |
+
+---
+
+### Filtros
+
+| Vista | Imagen |
+|------|--------|
+| Filtros activos | ![filter1](https://github.com/user-attachments/assets/a88bfc5a-327a-46c7-9a79-723ea1acdec7) |
+| Búsqueda y filtrado | ![filter2](https://github.com/user-attachments/assets/b7af9502-358a-4f59-a4cb-55384f527358) |
 
 
 ---
