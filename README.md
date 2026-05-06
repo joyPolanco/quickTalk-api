@@ -157,59 +157,9 @@ Aquí tienes la sección de **Capturas de Pantalla usando tablas**, organizada y
 ---
 
 ## Capturas de Pantalla
-
+<img width="784" height="745" alt="image" src="https://github.com/user-attachments/assets/755e32e2-787a-4baa-adeb-eced6aba456a" /> <img width="755" height="698" alt="image" src="https://github.com/user-attachments/assets/3066bad1-9e91-40d5-8ae1-cd0a36d739f5" /> chats enevntos de escritura en vivo <img width="1549" height="716" alt="image" src="https://github.com/user-attachments/assets/eee07e0a-b0dc-4c57-b04b-faefd1d293f6" /> <img width="1564" height="680" alt="image" src="https://github.com/user-attachments/assets/70c0e764-47a0-4023-a88e-4c16c27731e6" /> <img width="1545" height="692" alt="image" src="https://github.com/user-attachments/assets/c7def236-daab-4507-81f3-d9dadd0ae495" /> <img width="1567" height="683" alt="image" src="https://github.com/user-attachments/assets/6a5495d5-46f8-4eae-975f-fbcd20fb85e7" /> <img width="775" height="756" alt="image" src="https://github.com/user-attachments/assets/1853b334-7e6f-40d6-bf21-50055c4ce334" /> <img width="705" height="686" alt="image" src="https://github.com/user-attachments/assets/70d49081-a520-4737-9f65-7e8d0c69230e" /> <img width="1434" height="784" alt="image" src="https://github.com/user-attachments/assets/546808f9-3800-4fdc-94f9-00a0a608898c" /> <img width="1385" height="700" alt="image" src="https://github.com/user-attachments/assets/c2edbad3-f7ae-40f1-b768-afb2b660cc52" /> <img width="1583" height="746" alt="image" src="https://github.com/user-attachments/assets/1b0730f2-7603-4f5c-a43b-57ee3b9179c9" /> <img width="1464" height="773" alt="image" src="https://github.com/user-attachments/assets/08b92d8a-b059-4e9b-a23f-67b6387423ab" /> fitros <img width="792" height="764" alt="image" src="https://github.com/user-attachments/assets/a88bfc5a-327a-46c7-9a79-723ea1acdec7" /> <img width="791" height="689" alt="image" src="https://github.com/user-attachments/assets/b7af9502-358a-4f59-a4cb-55384f527358" />
 ### Autenticación
 
-|                                                                                               |                                                                                               |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/79d4c653-5561-4a67-b224-02ee5d881414" /> | <img src="https://github.com/user-attachments/assets/8ddc415d-5139-4e14-94e3-f5ed1fcde363" /> |
-
----
-
-### Estadísticas
-
-|                                                                                               |                                                                                               |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/becca8ce-ffab-4002-8e3b-9b32cd8c0e80" /> | <img src="https://github.com/user-attachments/assets/17900f67-5c9b-4332-bf80-f0f644754f1b" /> |
-
----
-
-### Libros
-
-|                                                                                               |                                                                                               |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/41c6e3cc-8894-45a8-9778-f105ab06dd94" /> | <img src="https://github.com/user-attachments/assets/03940830-35d2-43bd-b2eb-112e8e1c4562" /> |
-| <img src="https://github.com/user-attachments/assets/99f48330-8bd3-4518-841a-97a5dec90a51" /> | <img src="https://github.com/user-attachments/assets/a0df1df5-b1cf-4e55-884f-a12a7f3eaa96" /> |
-
----
-
-### Listas
-
-|                                                                                               |                                                                                               |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/6ab4d6cf-45df-49cd-8680-1baf05230da5" /> | <img src="https://github.com/user-attachments/assets/1a94792e-28e7-4074-85b8-a78f815d44ea" /> |
-| <img src="https://github.com/user-attachments/assets/5017848b-c65b-408d-9f00-6330d514dfd7" /> | <img src="https://github.com/user-attachments/assets/fdfe9acf-0716-403c-982b-564ec4b1331c" /> |
-| <img src="https://github.com/user-attachments/assets/c31ee8bf-ae87-457f-918b-9cd99bf4fc6c" /> | <img src="https://github.com/user-attachments/assets/8b738b51-9b6c-41e4-91a2-0778da4fc5a3" /> |
-
----
-
-### Colecciones
-
-|                                                                                               |                                                                                               |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/cd684702-fb61-406d-89d6-7c46c1865f40" /> | <img src="https://github.com/user-attachments/assets/e859e619-6116-43f1-853d-f4827a946eb4" /> |
-| <img src="https://github.com/user-attachments/assets/d3c978d9-1ab2-46d2-895b-2ec5f0e52618" /> |                                                                                               |
-
----
-
-### Entradas de Lectura
-
-|                                                                                               |                                                                                               |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/d30e045c-1fe2-4ac0-8bf7-c387239fa807" /> | <img src="https://github.com/user-attachments/assets/c91d962a-f6d8-463f-a3a3-4eadcd9bdeb3" /> |
-| <img src="https://github.com/user-attachments/assets/a311302b-1cf5-42c5-956a-5e51324f3731" /> | <img src="https://github.com/user-attachments/assets/031379d4-1e9c-4fa1-bd3e-ffdcd104eafe" /> |
-| <img src="https://github.com/user-attachments/assets/0ff25fb8-45a4-41f9-bc6d-a97a4ff4ee7f" /> | <img src="https://github.com/user-attachments/assets/a8837870-b44f-413b-a3ea-d92eedb32531" /> |
-| <img src="https://github.com/user-attachments/assets/03338a26-c3f9-4acb-a313-6c80a2633170" /> |                                                                                               |
 
 ---
 
