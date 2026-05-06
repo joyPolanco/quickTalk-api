@@ -46,6 +46,6 @@ app.use("/api/messages", messagesRouter);
 
 app.use(errorHandler);
 server.listen(PORT, (req, res) => {
-  console.log("Server running on port" + PORT);
+  console.log("Server running on port " + PORT);
   connectDB();
 });
