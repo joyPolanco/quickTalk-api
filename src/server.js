@@ -24,7 +24,6 @@ const __dirname = path.dirname(__filename);
 
 
 
- router.use(RateProtection)
 
 app.use(
   cors({
@@ -34,6 +33,8 @@ app.use(
     allowedHeaders: ["Content-Type", "Authorization"],
   }),
 );
+ app.use(RateProtection)
+
 app.use(express.json({ limit: "5mb" }));
 app.use(cookieParser());
 
